@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PhotosFetching"
+    }
+  },
+  "defaultProject": "PhotosFetching",
+  "cli": {
+    "analytics": false
+  }
 }
